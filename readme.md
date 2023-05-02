@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [Swapnikaagrawal@gmail.com](mailto:Swapnikaagrawal@gmail.com )
-* 🧠  I'm learning Flutter
+* 🧠  I'm learning Golang
 
 ### Skills
 
