@@ -1,25 +1,38 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Swapnika Agrawal
-========================================================================================================================================
+# Hi, I'm Swapnika 👋
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [Swapnikaagrawal@gmail.com](mailto:Swapnikaagrawal@gmail.com )
-* 🧠  I'm currently working as SDE-1(Backend) at Hue Logics 
+**Backend Engineer · 2.6 years of experience**
 
-### Skills
+🟢 **Open to new opportunities**
 
+---
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
+Backend engineer passionate about building **scalable, high-throughput systems**. I work across the full backend stack — from designing event-driven architectures with **Kafka** to optimising queries across **SQL, MongoDB & Redis**. I love solving problems where performance and reliability actually matter.
 
+---
 
-### Socials
+### 🛠 Tech Stack
 
-<p align="left"> <a href="https://www.github.com/swag2716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/swapnika-agrawal-184283200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /><a href="https://www.twitter.com/swag2716" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+`Go` `Python` `Node.js` `Kafka` `PostgreSQL` `MongoDB` `Redis` `Docker` `Git`
+
+---
+
+### 📌 About Me
+
+- 📍 Based in India  
+- 💼 2.6 years in backend engineering  
+- 🔥 Interested in distributed systems, data pipelines & API design  
+- 💬 Ask me about **Kafka**, **Go**, or **database optimisation**  
+- 📫 Reach me at: **[your-email@gmail.com]**  
+- 🔗 LinkedIn: **[linkedin.com/in/swapnika-agrawal]**
+
+---
+
+### 📊 GitHub Stats
+
+![Swapnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+---
+
+*Currently looking for backend / distributed systems roles. Feel free to reach out!* 🚀
