@@ -12,7 +12,7 @@ Backend engineer passionate about building **scalable, high-throughput systems**
 
 ### 🛠 Tech Stack
 
-`Go` `Python` `Node.js` `Kafka` `PostgreSQL` `MongoDB` `Redis` `Docker` `Git`
+`Go` `Python` `Kafka` `PostgreSQL` `MongoDB` `Redis` `Docker` `Git`
 
 ---
 
@@ -22,16 +22,16 @@ Backend engineer passionate about building **scalable, high-throughput systems**
 - 💼 2.6 years in backend engineering  
 - 🔥 Interested in distributed systems, data pipelines & API design  
 - 💬 Ask me about **Kafka**, **Go**, or **database optimisation**  
-- 📫 Reach me at: **[your-email@gmail.com]**  
-- 🔗 LinkedIn: **[linkedin.com/in/swapnika-agrawal]**
+- 📫 Reach me at: **[swapnikaagrawal@gmail.com]**  
+- 🔗 LinkedIn: **[www.linkedin.com/in/swapnikaag]**
 
 ---
 
 ### 📊 GitHub Stats
 
-![Swapnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Swapnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=swag2716&show_icons=true&theme=default&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swag2716&layout=compact&hide_border=true)
 
 ---
 
